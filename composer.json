@@ -1,0 +1,16 @@
+{
+    "name": "agimar/bibos",
+    "description": "Software Bibo's Bar",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agimar",
+            "email": "agimar@outlook.com"
+        }
+    ],
+    "require": {}
+}
